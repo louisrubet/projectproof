@@ -7,8 +7,6 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
-![Alt text](https://g.gravizo.com/
-
 ![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
@@ -29,13 +27,4 @@ custom_mark10
     execute -> compare;
   }
 custom_mark10
-</details>
-
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
-<details> 
-<summary></summary>
- digraph graphname {
-     a -> b -> c;
-     b -> d;
- }
 </details>
