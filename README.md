@@ -8,4 +8,5 @@ Bob-->Alice: I am good thanks!
 ```
 
 
-https://sketchboard.me/bAJOP573ZnBb
+![Alt text](./mermaid-trial.svg)
+<img src="./mermaid-trial.svg">
