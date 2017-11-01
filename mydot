@@ -1,6 +1,9 @@
+<details> 
+<summary></summary>
 custom_mark12
 digraph graphname {
     a -> b -> c;
     b -> d;
 }
 custom_mark12
+</details> 
