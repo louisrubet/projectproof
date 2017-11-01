@@ -23,3 +23,8 @@ b->a: message 2
 ```
 
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
