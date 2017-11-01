@@ -7,4 +7,14 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/louisrubet/projectproof/master/mydotd)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://github.com/louisrubet/projectproof/blob/master/README.md)
+<details> 
+<summary></summary>
+custom_mark12
+digraph graphname {
+    a -> b -> c;
+    b -> d;
+}
+custom_mark12
+</details>
+
