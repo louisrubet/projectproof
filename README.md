@@ -17,9 +17,9 @@ custom_mark10
 custom_mark10
 </details>
 
-``̀`jsseq
+```jsseq
 a->b: message 1
 b->a: message 2
-``̀`
+```
 
 
