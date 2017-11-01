@@ -7,7 +7,7 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
-<img src='https://g.gravizo.com/svg?
+![alt text](<img src='https://g.gravizo.com/svg?
  digraph G {
    main -> parse -> execute;
    main -> init;
@@ -18,7 +18,7 @@ Bob-->Alice: I am good thanks!
    main -> printf;
    execute -> compare;
  }
-'/>
+'/>)
 
 ![alt text]('https://g.gravizo.com/svg?
  digraph G {
