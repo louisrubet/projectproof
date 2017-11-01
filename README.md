@@ -20,7 +20,7 @@ Bob-->Alice: I am good thanks!
  }
 '/>
 
-![Alt text](https://g.gravizo.com/svg?
+![Alt text](<img src='https://g.gravizo.com/svg?
   digraph G {
     aize ="4,4";
     main [shape=box];
@@ -35,5 +35,5 @@ Bob-->Alice: I am good thanks!
     make_string [label="make a string"];
     node [shape=box,style=filled,color=".7 .3 1.0"];
     execute -> compare;
-  }
+  }'/>
 )
