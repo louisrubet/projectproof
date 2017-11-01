@@ -16,7 +16,7 @@ custom_mark10
     main [shape=box];
     main -> parse [weight=8];
     parse -> execute;
-    main -> init [style=dotted];
+    main -> IniT [style=dotted];
     main -> cleanup;
     execute -> { make_string; printf};
     init -> make_string;
