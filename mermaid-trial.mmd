@@ -1,0 +1,6 @@
+graph TD
+A[HVACR] -->|3-phase| B(STM32)
+A-->|PT100| B(STM32)
+B --> C
+C(OPI0)-->|RS485 / ModBus|A
+C -->|Ethernet / MQTT| D[platform cloud]
