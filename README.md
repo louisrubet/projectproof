@@ -38,3 +38,4 @@ B --> C
 C(OPI0)-->|RS485 / ModBus|A
 C -->|Ethernet / MQTT| D[platform cloud]
 HVACR_general
+</details>
