@@ -9,7 +9,7 @@ custom_mark10
    main -> init;
    main -> cleanup;
    execute -> make_string;
-   execute -> printf
+   execute -> printf;
    init -> make_string;
    main -> printf;
    execute -> compare;
