@@ -4,7 +4,6 @@ project exploration
 ## DOT example 1
 ![Alt text](https://g.gravizo.com/source/mark1?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
 <summary></summary>
-<details>
 mark1
 // The graph name and the semicolons are optional
 graph graphname {
