@@ -1,63 +1,6 @@
 # projectproof
 project exploration
 
-## DOT example 1
-![Alt text](https://g.gravizo.com/source/mark1?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
-<summary></summary>
-<details>
-mark1
-graph graphname {
-    a -- b -- c;
-    b -- d;
-}
-mark1
-</details>
-
-## DOT example 2
-![Alt text](https://g.gravizo.com/source/mark2?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
-<summary></summary>
-<details>
-mark2
-digraph graphname {
-     a -> b -> c;
-     b -> d;
- }
-mark2
-</details>
-
-
-## DOT example 3
-![Alt text](https://g.gravizo.com/source/mark3?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
-<summary></summary>
-<details>
-mark3
-digraph graphname {
-     a -> b -> c;
-     b -> d;
- }
-mark3
-</details>
-
-## DOT example 4
-![Alt text](https://g.gravizo.com/source/mark4?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
-<summary></summary>
-<details>
-mark4
- graph graphname {
-     // This attribute applies to the graph itself
-     size="4,4";
-     // The label attribute can be used to change the label of a node
-     a [label="Foo"];
-     // Here, the node shape is changed.
-     b [shape=box];
-     // These edges both have different line properties
-     a -- b -- c [color=blue];
-     b -- d [style=dotted];
-     // [style=invis] hides a node.
-   }
-mark4
-</details>
-
 ## DOT example 5
 ![Alt text](https://g.gravizo.com/source/mark5?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
 <summary></summary>
