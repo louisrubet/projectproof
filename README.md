@@ -1,7 +1,7 @@
 # projectproof
 project exploration
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://github.com/louisrubet/projectproof/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/TLmaK0/projectproof/master/README.md)
 <summary></summary>
 custom_mark10
  digraph G {
@@ -9,7 +9,7 @@ custom_mark10
    main -> init;
    main -> cleanup;
    execute -> make_string;
-   execute -> printf
+   execute -> printf;
    init -> make_string;
    main -> printf;
    execute -> compare;
