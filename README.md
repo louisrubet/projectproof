@@ -28,3 +28,13 @@ b->a: message 2
         <td>Foo</td>
     </tr>
 </table>
+
+![Alt text](https://g.gravizo.com/source/HVACR_general?https://raw.githubusercontent.com/TLmaK0/projectproof/master/README.md)
+<summary></summary>
+HVACR_general
+A[HVACR] -->|3-phase| B(STM32)
+A-->|PT100| B(STM32)
+B --> C
+C(OPI0)-->|RS485 / ModBus|A
+C -->|Ethernet / MQTT| D[platform cloud]
+HVACR_general
