@@ -1,8 +1,9 @@
 # projectproof
 project exploration
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://github.com/louisrubet/projectproof/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
 <summary></summary>
+<details>
 custom_mark10
  digraph G {
    main -> parse -> execute;
@@ -17,16 +18,16 @@ custom_mark10
 custom_mark10
 </details>
 
-![Alt text](https://g.gravizo.com/source/my_graph?https://github.com/louisrubet/projectproof/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/mark2?https://raw.githubusercontent.com/louisrubet/projectproof/master/README.md)
 <summary></summary>
-</detail>
-my_graph
- digraph G {
-   A[HVACR] -->|3-phase| B(STM32)
-   A-->|PT100| B(STM32)
-   B --> C
-   C(OPI0)-->|RS485 / ModBus|A
-   C -->|Ethernet / MQTT| D[platform cloud]
- }
-my_graph
+<details>
+mark2
+graph G {
+     size="1,1";
+     a [label="Foo"];
+     b [shape=box];
+     a -- b -- c [color=blue];
+     b -- d [style=dotted];
+}
+mark2
 </details>
