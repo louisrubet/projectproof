@@ -1,7 +1,7 @@
 # projectproof
 project exploration
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://github.com/louisrubet/projectproof/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://github.com/TLmaK0/projectproof/blob/master/README.md)
 <summary></summary>
 custom_mark10
  digraph G {
