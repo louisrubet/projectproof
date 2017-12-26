@@ -1,5 +1,5 @@
 # projectproof
-project exploration, version dev
+*project exploration*
 
 ## yuml
 ![essai yuml](http://yuml.me/louis/10affcd2.png)
