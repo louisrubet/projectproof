@@ -19,4 +19,4 @@ digraph graphname {
 mark2
 </details>
 
-*deatil due to branch enhancement-one*
+*enhancement due to branch enhancement-one*
